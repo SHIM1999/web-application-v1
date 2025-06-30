@@ -37,10 +37,6 @@ button {
   color: #333;
 }
 
-.question {
-  margin-bottom: 20px;
-}
-
 .options {
   display: flex;
   flex-direction: column;
